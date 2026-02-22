@@ -1,18 +1,17 @@
 # Site-wide settings
 # ------------------
-#
-# title: Your awesome title
-#
-# author:
-#   name: GitHub User
-#   email: your-email@domain.com
+
+title: Personal Blog
+
+author:
+  name: Prashanthi
+  email: prashantiramesh3@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-# description: >
-#   Write an awesome description for your new site here. You can edit this line
-#   in _config.yml. It will appear in your document head meta (for Google search
-#   results) and in your feed.xml site description.
+description: >
+  This is a personal space of my journey in becoming a programmer building architectures 
+  and training deep neural networks. I share my work, insights and personal projects
 
 
 # Build settings
@@ -20,7 +19,7 @@
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-# theme: minima
+theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
@@ -29,9 +28,9 @@
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
