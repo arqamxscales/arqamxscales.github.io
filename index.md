@@ -40,10 +40,16 @@ I am an **AI Product Developer** specialized in the engineering of **Agentic Int
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/mohammad-arqam-j-516975343/) | [X (Twitter)](https://x.com/arqamdotio) | [Linktree](https://linktr.ee/MohammadArqamJaved) | [GitHub](https://github.com/arqamxscales)
 
-
-### 🛡️ Verified Affiliations
+### 🛡️ Professional Ecosystem & Affiliations
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| ![UNDP](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/United_Nations_Development_Programme_logo.svg/1200px-United_Nations_Development_Programme_logo.svg.png){: width="50px"} | ![FAST](https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png){: width="50px"} | ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png){: width="100px"} | ![GDSC](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Google_Developers_logo.svg/2560px-Google_Developers_logo.svg.png){: width="100px"} |
-| **UNDP Researcher** | **FAST-NUCES** | **MS Student Ambassador** | **GDSC Member** |
+| ![Gov Pakistan](/government_pakistan.png){: width="65px"} | ![UNDP](/undp_logo.png){: width="65px"} | ![Quantum Park](/quantum_park_logo.png){: width="75px"} | ![FAST-NUCES](https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png){: width="65px"} |
+| **National Identity** | **UN Technical Researcher** | **Founder @ Quantum Park** | **FAST-NUCES Alumnus** |
+
+<br>
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png){: width="100px"} | ![GDSC](/gdsc_logo.png){: width="110px"} | ![Upwork](/upwork_logo.png){: width="70px"} | ![MLSA](https://mvp.microsoft.com/en-us/Content/Images/logo_studentambassadors.png){: width="100px"} |
+| **MS Student Ambassador** | **GDSC Technical Lead** | **Top-Rated Freelancer** | **AI Cloud Advocate** |
