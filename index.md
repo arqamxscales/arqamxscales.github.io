@@ -5,11 +5,11 @@ title: Mohammad Arqam Javed
 
 # 🚀 AI Systems Architect & Technical Researcher
 
-I am an **AI Product Developer** specialized in **Agentic Intelligence** and **FinTech Ecosystems**. Currently serving as a **Technical AI Researcher at UNDP** and **Founder of Quantum Park**.
+I am an **AI Product Developer** specialized in **Agentic Intelligence** and **FinTech Ecosystems**. Currently serving as a **Technical AI Researcher @UNDP** and **Founder @Quantum Park**.
 
 ### 🛠️ Strategic Expertise
 * **Agentic AI:** Engineering self-corrective RAG & Multi-Agent systems (NexusCore).
-* **Systems Engineering:** High-performance python development for financial simulations.
+* **Systems Engineering:** High-performance C++ development for financial simulations.
 * **Impact Research:** Analyzing socio-economic AI transformation at UNDP.
 
 ---
