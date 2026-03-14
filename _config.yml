@@ -21,7 +21,11 @@ author:
   header_feature_image: /profile.jpg
   # Or if using Minima avatar settings:
   avatar: /profile.jpg
-  
+
+  header_pages:
+  - about.md
+  - index.markdown
+
 # 💡 PROFESSIONAL FOCUS
 # (These help search engines understand your elite technical profile)
 keywords: [Agentic AI, Multi-Agent Orchestration, NexusCore, C++ FinTech, PSX High-Frequency Trading, UNDP AI Research, Socio-Economic Impact, GraphRAG, PIAIC Karachi, FAST-NUCES Islamabad, UN Volunteer Pakistan]
@@ -32,6 +36,8 @@ theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag # Adds professional meta tags
+  
+show_excerpts: true
 
 # 🛡️ SECURITY & CACHE
 # (This keeps your site safe and fast, meeting your 10-year goal)
