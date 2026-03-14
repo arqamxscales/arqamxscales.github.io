@@ -39,3 +39,11 @@ I am an **AI Product Developer** specialized in the engineering of **Agentic Int
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/mohammad-arqam-j-516975343/) | [X (Twitter)](https://x.com/arqamdotio) | [Linktree](https://linktr.ee/MohammadArqamJaved) | [GitHub](https://github.com/arqamxscales)
+
+
+### 🛡️ Verified Affiliations
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| ![UNDP](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/United_Nations_Development_Programme_logo.svg/1200px-United_Nations_Development_Programme_logo.svg.png){: width="50px"} | ![FAST](https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png){: width="50px"} | ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png){: width="100px"} | ![GDSC](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Google_Developers_logo.svg/2560px-Google_Developers_logo.svg.png){: width="100px"} |
+| **UNDP Researcher** | **FAST-NUCES** | **MS Student Ambassador** | **GDSC Member** |
