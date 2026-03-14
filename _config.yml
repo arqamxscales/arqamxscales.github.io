@@ -18,6 +18,10 @@ author:
   location: [Rawalpindi, Islamabad, Pakistan]
   specialization: [Agentic Intelligence, FinTech Systems Engineering, UI/UX Strategy]
 
+  header_feature_image: /profile.jpg
+  # Or if using Minima avatar settings:
+  avatar: /profile.jpg
+  
 # 💡 PROFESSIONAL FOCUS
 # (These help search engines understand your elite technical profile)
 keywords: [Agentic AI, Multi-Agent Orchestration, NexusCore, C++ FinTech, PSX High-Frequency Trading, UNDP AI Research, Socio-Economic Impact, GraphRAG, PIAIC Karachi, FAST-NUCES Islamabad, UN Volunteer Pakistan]
